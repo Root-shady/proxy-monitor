@@ -1,1 +1,16 @@
+# Folders
 .idea/
+migrations
+__pycache__
+
+# File patterns
+*.swp
+*.pyc
+*.sqlite3
+*.mo
+*.bak
+
+# setting files
+local_settings.py
+test_settings.py
+production_settings.py
